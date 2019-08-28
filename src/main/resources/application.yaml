@@ -1,0 +1,4 @@
+shenkh:
+  notebook:
+    jasypt:
+      encrypt-algorithm: RSA
